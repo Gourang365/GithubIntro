@@ -4,3 +4,5 @@ Apple
 Mangoes
 Oranges
 Cherries
+Cereals
+Carrots
